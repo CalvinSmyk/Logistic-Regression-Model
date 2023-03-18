@@ -33,5 +33,5 @@ python main.py
 The program will output the accuracy of the model on the test data.
 
 Credits
+
 This project was created by Calvin Smyk. If you have any questions or suggestions, please feel free to contact me at calvin.smyk@gmx.de.
-![image](https://user-images.githubusercontent.com/89919457/226142757-efd56488-dbf0-4475-aa11-f1e3f8e80676.png)
