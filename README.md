@@ -4,9 +4,9 @@ Image Classification using Logistic Regression
 
 This project implements logistic regression for image classification. It includes three Python files:
 
-model.py: Contains the main logic for training and testing the logistic regression model.
+LogisticRegression.py: Contains the main logic for training and testing the logistic regression model.
 
-data.py: Implements functions for reading and preprocessing the data.
+DataReader.py: Implements functions for reading and preprocessing the data.
 
 main.py: A simple script that trains the model on the training data and evaluates its performance on the test data.
 
